@@ -8,7 +8,7 @@
 
 # Configure Cytrill
 1. install python-pip
-2. install python-pyqt4
+2. install python2-pyqt4
 3. git clone https://github.com/Cytrill/tools.git
 4. ./tools/config_tools/config.py /tty/usbXX
 5. Follow on-screen instructions
